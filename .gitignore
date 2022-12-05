@@ -1,5 +1,5 @@
-./yolo_result/
-./images/
-./automl/efficientdet/serve_image_out
-./automl/efficientdet/__pycache__
-./yolov5x6.pt
+./yolo_result/*
+images/*
+automl
+yolo_result/*
+yolov5x6.pt
